@@ -1,4 +1,4 @@
-🔗 **Live Demo:** https://project-01-client.onrender.com/
+🔗 **Live:** https://project-01-client.onrender.com/
 
 ## About
 This project is ...
