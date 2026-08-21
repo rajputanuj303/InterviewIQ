@@ -1,3 +1,10 @@
+# My Project
+
+🔗 **Live Demo:** https://your-deployed-project.com
+
+## About
+This project is ...
+
 # InterviewIQ
 
 InterviewIQ.AI is an AI-powered mock interview platform.
