@@ -1,4 +1,4 @@
-# InterviewIQ.AI
+# InterviewIQ
 
 InterviewIQ.AI is an AI-powered mock interview platform.
 It helps users practice role-based interviews, upload resumes for analysis, receive AI feedback, track interview history, and buy credits for more sessions.
