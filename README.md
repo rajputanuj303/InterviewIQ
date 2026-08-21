@@ -89,6 +89,28 @@ npm run dev
 ## Project Structure
 
 ```text
-client/
-server/
+InterviewIQ/
+├── client/
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       │   └── videos/
+│       ├── components/
+│       ├── pages/
+│       ├── redux/
+│       ├── utils/
+│       ├── App.jsx
+│       ├── App.css
+│       ├── index.css
+│       └── main.jsx
+└── server/
+	├── config/
+	├── controllers/
+	├── middlewares/
+	├── models/
+	├── public/
+	├── routes/
+	├── services/
+	├── index.js
+	└── package.json
 ```
