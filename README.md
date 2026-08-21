@@ -1,5 +1,3 @@
-# My Project
-
 🔗 **Live Demo:** https://project-01-client.onrender.com/
 
 ## About
